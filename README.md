@@ -1,3 +1,30 @@
-# near-ncd-II-ico-exchange-vue-php
+# NEAR Fungible Token ICO Exchange II (Vue.js Frontend + PHP Laravel Gateway)
 
-test
+![Fungible Token ICo Exchange](https://github.com/AGNICO/near-ncd-I-ico-exchange-rs/blob/master/docs/ncd-1.png)
+
+<p align="center">
+Soon
+</p>
+
+## ⚠️ Warning
+
+Any content produced by NEAR, or developer resources that NEAR provides, are for educational and inspiration purposes only. NEAR does not encourage, induce or sanction the deployment of any such applications in violation of applicable laws or regulations.
+
+## Vue.js Frontend installation + usage
+
+
+## PHP Laravel Gateway installation + usage
+
+
+
+---
+
+## Credits and links
+
+#### [Part 1: NEAR Fungible Token ICO Exchange I (Rust)](https://github.com/AGNICO/near-ncd-I-ico-exchange-rs)
+
+#### [NEAR Protocol](https://near.org)
+
+#### [NEAR University](https://near.university)
+
+#### [<°}))>{ AGNICO.io | Happy BLOCKCHAIN Apps](https://agnico.io)

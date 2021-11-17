@@ -87,23 +87,6 @@ export class NearService {
         this.keystore = null
         this.user = null
     }
-
-    async getContractInstance(contract_id, abiMethods) {
-        if (!this.user || !this.user.accountId) return
-        const account = this.walletConnection.account()
-        const abi = {
-            changeMethods: [],
-            viewMethods: [],
-            ...abiMethods,
-        }
-
-        // Sender is the account ID to initialize transactions.
-        return new this.nearApi.Contract(
-            account,
-            contract_id,
-            { ...abi, sender: account.accountId }
-        )
-    }
 }
 
 // Register NEAR plugin with Vue

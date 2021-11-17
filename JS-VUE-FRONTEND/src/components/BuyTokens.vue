@@ -314,6 +314,8 @@ export default {
       });
     },
     transferTokens() {
+      const price = this.$near.nearApi.utils.format.parseNearAmount((this.ico.near_price * this.amount).toString());
+
       this.$near.user.account().functionCall({
           contractId: process.env.VUE_APP_EXCHANGE_CONTRACT,
           methodName: "transfer_tokens",
@@ -324,7 +326,8 @@ export default {
             tokens: this.amount,
             msg: 'Test transfer',
           },
-          gas: 300000000000000/2
+          gas: 300000000000000/2,
+          attachedDeposit: price
       });
     }
 
