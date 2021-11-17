@@ -3,8 +3,8 @@
 ![Fungible Token ICo Exchange](https://github.com/AGNICO/near-ncd-I-ico-exchange-rs/blob/master/docs/ncd-1.png)
 
 <p float="left">
-  <img src="https://github.com/AGNICO/near-ncd-II-ico-exchange-vue-php/blob/master/docs/fe-1.png" width="300" />
-  <img src="https://github.com/AGNICO/near-ncd-II-ico-exchange-vue-php/blob/master/docs/fe-2.png" width="300" />
+  <img src="https://github.com/AGNICO/near-ncd-II-ico-exchange-vue-php/blob/master/docs/fe-1.png" width="415" />
+  <img src="https://github.com/AGNICO/near-ncd-II-ico-exchange-vue-php/blob/master/docs/fe-2.png" width="415" />
 </p>
 
 <p align="center">
