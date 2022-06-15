@@ -44,7 +44,7 @@ You can see a brief walk through the code in the attached video.
 
 ## Credits and links
 
-#### [Part 1: NEAR Fungible Token ICO Exchange I (Rust)](https://github.com/AGNICO/near-ncd-I-ico-exchange-rs)
+#### [Part 1: NEAR Fungible Token ICO Exchange I (Rust)](https://github.com/AGNICO/near-ncd-I-ft-ico-rs)
 
 #### [NEAR Protocol](https://near.org)
 
