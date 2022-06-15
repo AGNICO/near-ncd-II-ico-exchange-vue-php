@@ -7,9 +7,9 @@
   <img src="https://github.com/AGNICO/near-ncd-II-ico-exchange-vue-php/blob/master/docs/fe-1.png" width="40%" />
 </p>
 
-<p align="center">
-Video Soon
-</p>
+<!-- <p align="center">
+Video demo: https://youtu.be/I4O6GRAgrXk
+</p> -->
 
 ## ⚠️ Warning
 
