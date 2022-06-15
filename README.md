@@ -1,6 +1,6 @@
 # NEAR Fungible Token ICO Exchange II (Vue.js Frontend + PHP Laravel Gateway)
 
-![Fungible Token ICo Exchange](https://github.com/AGNICO/near-ncd-I-ico-exchange-rs/blob/master/docs/ncd-1.png)
+![Fungible Token ICo Exchange](https://github.com/AGNICO/near-ncd-I-ft-ico-rs/blob/master/docs/ncd-1.png)
 
 <p align="center">
   <img src="https://github.com/AGNICO/near-ncd-II-ico-exchange-vue-php/blob/master/docs/fe-2.png" width="40%" />
